@@ -1,0 +1,9 @@
+_push.bat
+_pull.bat
+old
+junk
+Debug
+Release
+ReadMe.txt
+*.vcxproj.filters
+*.vcxproj.user
