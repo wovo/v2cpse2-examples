@@ -1,8 +1,8 @@
 _push.bat
 _pull.bat
-.vs
-Debug
-Release
+.vs/
+Debug/
+Release/
 ReadMe.txt
 *.vcxproj.filters
 *.vcxproj.user
