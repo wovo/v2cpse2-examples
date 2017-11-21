@@ -3,6 +3,5 @@ _pull.bat
 .vs/
 Debug/
 Release/
-ReadMe.txt
 *.vcxproj.filters
-*.vcxproj.user
+*.vcxproj.userd
