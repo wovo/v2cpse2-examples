@@ -1,7 +1,6 @@
 _push.bat
 _pull.bat
-old
-junk
+.vs
 Debug
 Release
 ReadMe.txt
