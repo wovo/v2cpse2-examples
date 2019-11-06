@@ -9,10 +9,10 @@
 #############################################################################
 
 # source files in this project (main.cpp is automatically assumed)
-SOURCES := 
+SOURCES := ball.cpp
 
 # header files in this project
-HEADERS := 
+HEADERS := ball.hpp
 
 # other places to look for files for this project
 SEARCH  := 
